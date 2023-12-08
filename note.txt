@@ -1,0 +1,3 @@
+This project is PHP project for my school lessons.
+I am not a professional programmer, only a student.
+This project uses PHP to register and log in your account on your database.
